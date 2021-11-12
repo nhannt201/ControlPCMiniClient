@@ -1,0 +1,11 @@
+N:\VB.NET\Control PC Mini Client\Control PC Mini Client\bin\Debug\Control PC Mini Client.exe.config
+N:\VB.NET\Control PC Mini Client\Control PC Mini Client\bin\Debug\Control PC Mini Client.exe
+N:\VB.NET\Control PC Mini Client\Control PC Mini Client\bin\Debug\Control PC Mini Client.pdb
+N:\VB.NET\Control PC Mini Client\Control PC Mini Client\bin\Debug\Control PC Mini Client.xml
+N:\VB.NET\Control PC Mini Client\Control PC Mini Client\obj\Debug\Control PC Mini Client.vbprojResolveAssemblyReference.cache
+N:\VB.NET\Control PC Mini Client\Control PC Mini Client\obj\Debug\Control_PC_Mini_Client.Resources.resources
+N:\VB.NET\Control PC Mini Client\Control PC Mini Client\obj\Debug\Control PC Mini Client.vbproj.GenerateResource.Cache
+N:\VB.NET\Control PC Mini Client\Control PC Mini Client\obj\Debug\Control PC Mini Client.exe
+N:\VB.NET\Control PC Mini Client\Control PC Mini Client\obj\Debug\Control PC Mini Client.xml
+N:\VB.NET\Control PC Mini Client\Control PC Mini Client\obj\Debug\Control PC Mini Client.pdb
+N:\VB.NET\Control PC Mini Client\Control PC Mini Client\obj\Debug\Control_PC_Mini_Client.home.resources
